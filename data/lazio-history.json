@@ -1,0 +1,150 @@
+{
+  "players": [
+    {
+      "id": "fulvio-bernardini",
+      "name": "Fulvio Bernardini",
+      "role": "Portiere - Attaccante",
+      "period": "1919–1926",
+      "image": "assets/fulvio-bernardini.png",
+      "description": "Gli altri si dibattevano nella preistoria, lui, Fulvio Bernardini, mostrò il futuro. Arrivò alla Lazio a 14 anni ancora da compiere, prelevato dalla squadra dell’oratorio di San Sebastiano denominata Exquilia. Era il 1919, presto esordì in porta e stupì tutti tanto da essere promosso portiere titolare. Alla metà della stagione 1920/21 chiese di poter essere spostato in attacco. Ci sono discordanze sui motivi della sua scelta di cambiare posizione. Secondo alcune fonti Bernardini avrebbe deciso di cambiare ruolo a causa dei quattro gol subiti nella partita Naples-Lazio 4-2, altre invece riportano che Bernardini decise di giocare come attaccante a causa di un grave scontro di gioco, avvenuto in un Fortitudo-Lazio, che gli fece perdere i sensi, e alle conseguenti pressioni della famiglia preoccupata. Comunque sia, i dirigenti della Lazio decisero di accontentarlo provandolo centravanti nella squadra riserve. Fu un trionfo già dalla prima partita. Nella Prima Divisione 1922/23 fu capocannoniere con 21 gol. Alla Lazio rimase fino al 1926, collezionando circa 100 presenze (all’epoca la stampa non sempre riportava i tabellini e pertanto stabilire dati precisi è impossibile), mentre le marcature sono state 73.",
+      "stats": [
+        {
+          "value": "73",
+          "label": "Gol ufficiali",
+          "icon": "⚽"
+        },
+        {
+          "value": "circa 100",
+          "label": "Presenze",
+          "icon": "👕"
+        },
+        {
+          "value": "1919–1926",
+          "label": "Periodo",
+          "icon": "▣"
+        }
+      ]
+    },
+    {
+      "id": "sante-ancherani",
+      "name": "Sante Ancherani",
+      "role": "Attaccante",
+      "period": "1900–1903",
+      "image": "assets/sante-ancherani.png",
+      "description": " Il primo vero divo e trascinatore tecnico. Fu contemporaneamente centravanti, allenatore e capitano, guidando la squadra alla vittoria nel primo derby contro la Virtus nel 1902",
+      "stats": [
+        {
+          "value": "207",
+          "label": "Gol ufficiali",
+          "icon": "⚽"
+        },
+        {
+          "value": "340+",
+          "label": "Presenze",
+          "icon": "👕"
+        },
+        {
+          "value": "2016–2023",
+          "label": "Periodo",
+          "icon": "▣"
+        },
+        {
+          "value": "Icona",
+          "label": "Impatto",
+          "icon": "☆"
+        }
+      ]
+    },
+    {
+      "id": "ciro-immobile",
+      "name": "Ciro Immobile",
+      "role": "Attaccante",
+      "period": "2016–2023",
+      "image": "assets/ciro-immobile.jpg",
+      "description": "Immobile è una figura perfetta per dimostrare il riuso dei dati: appare nella timeline del periodo contemporaneo, nella Hall of Fame, nella stanza immersiva e in ogni scheda statistica collegata agli anni in cui è stato alla Lazio.",
+      "stats": [
+        {
+          "value": "207",
+          "label": "Gol ufficiali",
+          "icon": "⚽"
+        },
+        {
+          "value": "340+",
+          "label": "Presenze",
+          "icon": "👕"
+        },
+        {
+          "value": "2016–2023",
+          "label": "Periodo",
+          "icon": "▣"
+        },
+        {
+          "value": "Icona",
+          "label": "Impatto",
+          "icon": "☆"
+        }
+      ]
+    },
+    {
+      "id": "silvio-piola",
+      "name": "Silvio Piolaa",
+      "role": "Attaccante",
+      "period": "1934–1943",
+      "image": "assets/silvio-piola.png",
+      "description": "Silvio Piola rappresenta la leggenda più splendente della storia della Lazio, un calciatore che ha segnato un'epoca diventando il simbolo del club tra il 1934 e il 1943. Il suo arrivo a Roma fu un evento clamoroso, frutto della determinazione del presidente Eugenio Gualdi che lo acquistò dalla Pro Vercelli per la cifra record di duecentocinquantamila lire, superando la concorrenza delle potenze del Nord grazie anche all'intervento dei vertici del regime desiderosi di rafforzare la squadra della capitale. Centravanti dalla potenza devastante e dall'agilità acrobatica, Piola era celebre per le sue spettacolari rovesciate, definite forbici in volo, che mandavano in estasi i tifosi. La sua importanza era tale che il presidente Zenobi gli fece realizzare dei parastinchi su misura per proteggere le sue caratteristiche tibie lunghe dai duri interventi dei difensori Durante il suo decennio in biancoceleste, si laureò capocannoniere della Serie A in due occasioni, nelle stagioni 1936-37 e 1942-43, trascinando la squadra a sfiorare lo scudetto e a disputare una finale di Coppa Europa. Il suo valore assoluto venne confermato ai Mondiali del 1938, dove fu l'eroe della vittoria italiana segnando una doppietta nella finale di Parigi. Olte ai numeri da record, Piola era un leader carismatico e un capitano autorevole, capace di zittire gli allenatori per difendere i compagni o di restare in campo con la testa fasciata e insanguinata durante un derby del 1941, arrivando persino a segnare due reti nonostante l'infortunio.Uomo schivo e riservato, amava la caccia e non era raro vederlo arrivare alla sede sociale di via Frattina con fucile e cani al seguito, un'immagine che lo rendeva un mito familiare e amatissimo dai romani. La sua avventura con la Lazio si concluse nel 1943 con un ultimo gol acrobatico contro l'Atalanta, prima della cessione alla Juventus avvenuta nel dopoguerra per un milione e seicentomila lire. Nonostante avesse già trentadue anni, continuò a giocare e segnare fino alla soglia dei quarant'anni, lasciando un'eredità ineguagliabile come massimo cannoniere della storia del calcio italiano",
+      "stats": [
+        {
+          "value": "149",
+          "label": "Gol con la Lazio",
+          "icon": "⚽"
+        },
+        {
+          "value": "227",
+          "label": "Presenze",
+          "icon": "👕"
+        },
+        {
+          "value": "1934–1943",
+          "label": "Periodo",
+          "icon": "▣"
+        },
+        {
+          "value": "Leggenda",
+          "label": "Impatto",
+          "icon": "☆"
+        }
+      ]
+    },
+	    {
+      "id": "giorgio-chinaglia",
+      "name": "Giorgio Chinaglia",
+      "role": "Attaccante",
+      "period": "1934–1943",
+      "image": "assets/giorgio-chinaglia.jpg",
+      "description": "Giorgio Chinaglia, affettuosamente chiamato dai tifosi 'Long John' o 'Giorgione', rappresenta una delle figure più iconiche, carismatiche e leggendarie dell'intera storia della Lazio[cite: 148, 360]. Acquistato nel 1969 dal presidente Umberto Lenzini insieme al libero Pino Wilson, Chinaglia andò a formare l'asse verticale e trainante di una squadra destinata a compiere imprese straordinarie[cite: 145, 148]. Dotato di una debordante personalità e di un innato spirito da leader, si impose rapidamente come il trascinatore assoluto sia all'interno dello spogliatoio sia nel viscerale rapporto con la tifoseria biancoceleste[cite: 149, 150]. Sotto la guida sapiente di Tommaso Maestrelli — tecnico con cui Chinaglia instaurò un profondo e speciale legame, quasi simbiotico, vedendolo come un vero e proprio padre — l'attaccante divenne il simbolo indiscusso della Lazialità[cite: 136, 357, 360, 363]. Il culmine della sua epopea romana arrivò nella stagione 1973-1974, quando la Lazio si laureò Campione d'Italia per la prima volta nei suoi 74 anni di storia[cite: 136]. In quel memorabile campionato, Chinaglia trascinò le aquile alla conquista del tricolore vincendo il titolo di capocannoniere assoluto con ben 24 reti[cite: 136]. Successivamente, fortemente scosso dalla drammatica malattia del mentore Maestrelli e attratto da nuove sfide professionali, decise di trasferirsi negli Stati Uniti per vestire la maglia dei Cosmos a New York, lasciando un vuoto incolmabile nel cuore del popolo laziale ma imprimendo per sempre il proprio nome nella leggenda del club[cite: 360].",
+      "stats": [
+        {
+          "value": "149",
+          "label": "Gol con la Lazio",
+          "icon": "⚽"
+        },
+        {
+          "value": "227",
+          "label": "Presenze",
+          "icon": "👕"
+        },
+        {
+          "value": "1934–1943",
+          "label": "Periodo",
+          "icon": "▣"
+        },
+        {
+          "value": "Leggenda",
+          "label": "Impatto",
+          "icon": "☆"
+        }
+      ]
+		}
+	
+  ]
+}

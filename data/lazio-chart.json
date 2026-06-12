@@ -1,0 +1,1398 @@
+{
+    "bands":  [
+                  {
+                      "league":  "Serie A",
+                      "label":  "Serie A",
+                      "yTop":  60,
+                      "yBottom":  218,
+                      "maxPosition":  20,
+                      "zones":  [
+                                    {
+                                        "label":  "Alta classifica",
+                                        "fromPosition":  1,
+                                        "toPosition":  5,
+                                        "className":  "high-table"
+                                    },
+                                    {
+                                        "label":  "Media classifica",
+                                        "fromPosition":  6,
+                                        "toPosition":  16,
+                                        "className":  "mid-table"
+                                    },
+                                    {
+                                        "label":  "Bassa classifica",
+                                        "fromPosition":  17,
+                                        "toPosition":  20,
+                                        "className":  "low-table"
+                                    }
+                                ]
+                  },
+                  {
+                      "league":  "Serie B",
+                      "label":  "Serie B",
+                      "yTop":  238,
+                      "yBottom":  396,
+                      "maxPosition":  22,
+                      "zones":  [
+                                    {
+                                        "label":  "Alta classifica",
+                                        "fromPosition":  1,
+                                        "toPosition":  5,
+                                        "className":  "high-table"
+                                    },
+                                    {
+                                        "label":  "Media classifica",
+                                        "fromPosition":  6,
+                                        "toPosition":  18,
+                                        "className":  "mid-table"
+                                    },
+                                    {
+                                        "label":  "Bassa classifica",
+                                        "fromPosition":  19,
+                                        "toPosition":  22,
+                                        "className":  "low-table"
+                                    }
+                                ]
+                  }
+              ],
+    "gradient":  [
+                     {
+                         "offset":  "0",
+                         "color":  "#8fd8ff"
+                     },
+                     {
+                         "offset":  ".34",
+                         "color":  "#5de3b4"
+                     },
+                     {
+                         "offset":  ".58",
+                         "color":  "#ff6b8e"
+                     },
+                     {
+                         "offset":  ".78",
+                         "color":  "#5de3b4"
+                     },
+                     {
+                         "offset":  "1",
+                         "color":  "#8fd8ff"
+                     }
+                 ],
+    "points":  [
+                   {
+                       "season":  "1929/30",
+                       "label":  "1929",
+                       "league":  "Serie A",
+                       "position":  15,
+                       "positionLabel":  "15\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1900",
+                       "target":  "1900",
+                       "showLabel":  true,
+                       "note":  "Primo campionato di Serie A a girone unico"
+                   },
+                   {
+                       "season":  "1930/31",
+                       "label":  "1930",
+                       "league":  "Serie A",
+                       "position":  8,
+                       "positionLabel":  "8\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1900",
+                       "target":  "1900",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1931/32",
+                       "label":  "1931",
+                       "league":  "Serie A",
+                       "position":  13,
+                       "positionLabel":  "13\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1932/33",
+                       "label":  "1932",
+                       "league":  "Serie A",
+                       "position":  10,
+                       "positionLabel":  "10\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1933/34",
+                       "label":  "1933",
+                       "league":  "Serie A",
+                       "position":  10,
+                       "positionLabel":  "10\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1934/35",
+                       "label":  "1934",
+                       "league":  "Serie A",
+                       "position":  5,
+                       "positionLabel":  "5\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1935/36",
+                       "label":  "1935",
+                       "league":  "Serie A",
+                       "position":  7,
+                       "positionLabel":  "7\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1936/37",
+                       "label":  "1936",
+                       "league":  "Serie A",
+                       "position":  2,
+                       "positionLabel":  "2\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  true,
+                       "note":  "Vicecampione d\u0027Italia"
+                   },
+                   {
+                       "season":  "1937/38",
+                       "label":  "1937",
+                       "league":  "Serie A",
+                       "position":  8,
+                       "positionLabel":  "8\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1938/39",
+                       "label":  "1938",
+                       "league":  "Serie A",
+                       "position":  10,
+                       "positionLabel":  "10\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1939/40",
+                       "label":  "1939",
+                       "league":  "Serie A",
+                       "position":  4,
+                       "positionLabel":  "4\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1940/41",
+                       "label":  "1940",
+                       "league":  "Serie A",
+                       "position":  14,
+                       "positionLabel":  "14\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1941/42",
+                       "label":  "1941",
+                       "league":  "Serie A",
+                       "position":  5,
+                       "positionLabel":  "5\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1942/43",
+                       "label":  "1942",
+                       "league":  "Serie A",
+                       "position":  9,
+                       "positionLabel":  "9\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1946/47",
+                       "label":  "1946",
+                       "league":  "Serie A",
+                       "position":  10,
+                       "positionLabel":  "10\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  "Ripristino del girone unico"
+                   },
+                   {
+                       "season":  "1947/48",
+                       "label":  "1947",
+                       "league":  "Serie A",
+                       "position":  10,
+                       "positionLabel":  "10\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1948/49",
+                       "label":  "1948",
+                       "league":  "Serie A",
+                       "position":  13,
+                       "positionLabel":  "13\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1949/50",
+                       "label":  "1949",
+                       "league":  "Serie A",
+                       "position":  4,
+                       "positionLabel":  "4\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1950/51",
+                       "label":  "1950",
+                       "league":  "Serie A",
+                       "position":  4,
+                       "positionLabel":  "4\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1951/52",
+                       "label":  "1951",
+                       "league":  "Serie A",
+                       "position":  4,
+                       "positionLabel":  "4\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1952/53",
+                       "label":  "1952",
+                       "league":  "Serie A",
+                       "position":  10,
+                       "positionLabel":  "10\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1953/54",
+                       "label":  "1953",
+                       "league":  "Serie A",
+                       "position":  11,
+                       "positionLabel":  "11\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1954/55",
+                       "label":  "1954",
+                       "league":  "Serie A",
+                       "position":  12,
+                       "positionLabel":  "12\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1955/56",
+                       "label":  "1955",
+                       "league":  "Serie A",
+                       "position":  3,
+                       "positionLabel":  "3\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1956/57",
+                       "label":  "1956",
+                       "league":  "Serie A",
+                       "position":  3,
+                       "positionLabel":  "3\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1957/58",
+                       "label":  "1957",
+                       "league":  "Serie A",
+                       "position":  12,
+                       "positionLabel":  "12\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  "Vittoria della prima Coppa Italia nel sett. 1958"
+                   },
+                   {
+                       "season":  "1958/59",
+                       "label":  "1958",
+                       "league":  "Serie A",
+                       "position":  11,
+                       "positionLabel":  "11\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1959/60",
+                       "label":  "1959",
+                       "league":  "Serie A",
+                       "position":  12,
+                       "positionLabel":  "12\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1960/61",
+                       "label":  "1960",
+                       "league":  "Serie A",
+                       "position":  18,
+                       "positionLabel":  "18\u00b0 posto",
+                       "status":  "low",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  true,
+                       "note":  "Retrocessione in Serie B"
+                   },
+                   {
+                       "season":  "1961/62",
+                       "label":  "1961",
+                       "league":  "Serie B",
+                       "position":  4,
+                       "positionLabel":  "4\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1962/63",
+                       "label":  "1962",
+                       "league":  "Serie B",
+                       "position":  3,
+                       "positionLabel":  "3\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  "Promozione in Serie A"
+                   },
+                   {
+                       "season":  "1963/64",
+                       "label":  "1963",
+                       "league":  "Serie A",
+                       "position":  8,
+                       "positionLabel":  "8\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1964/65",
+                       "label":  "1964",
+                       "league":  "Serie A",
+                       "position":  14,
+                       "positionLabel":  "14\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1965/66",
+                       "label":  "1965",
+                       "league":  "Serie A",
+                       "position":  12,
+                       "positionLabel":  "12\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1966/67",
+                       "label":  "1966",
+                       "league":  "Serie A",
+                       "position":  15,
+                       "positionLabel":  "15\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  "Retrocessione in Serie B"
+                   },
+                   {
+                       "season":  "1967/68",
+                       "label":  "1967",
+                       "league":  "Serie B",
+                       "position":  11,
+                       "positionLabel":  "11\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1968/69",
+                       "label":  "1968",
+                       "league":  "Serie B",
+                       "position":  1,
+                       "positionLabel":  "1\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  "Campione della Serie B, Promozione"
+                   },
+                   {
+                       "season":  "1969/70",
+                       "label":  "1969",
+                       "league":  "Serie A",
+                       "position":  8,
+                       "positionLabel":  "8\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1970/71",
+                       "label":  "1970",
+                       "league":  "Serie A",
+                       "position":  15,
+                       "positionLabel":  "15\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  "Retrocessione in Serie B"
+                   },
+                   {
+                       "season":  "1971/72",
+                       "label":  "1971",
+                       "league":  "Serie B",
+                       "position":  2,
+                       "positionLabel":  "2\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  "Promozione in Serie A con Tommaso Maestrelli"
+                   },
+                   {
+                       "season":  "1972/73",
+                       "label":  "1972",
+                       "league":  "Serie A",
+                       "position":  3,
+                       "positionLabel":  "3\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "showLabel":  false,
+                       "note":  "Scudetto sfiorato all\u0027ultima giornata"
+                   },
+                   {
+                       "season":  "1973/74",
+                       "label":  "1973",
+                       "league":  "Serie A",
+                       "position":  1,
+                       "positionLabel":  "1\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1974",
+                       "target":  "1974",
+                       "showLabel":  true,
+                       "note":  "CAMPIONE D\u0027ITALIA (1ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€š\u00b0 Scudetto)"
+                   },
+                   {
+                       "season":  "1974/75",
+                       "label":  "1974",
+                       "league":  "Serie A",
+                       "position":  4,
+                       "positionLabel":  "4\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1974",
+                       "target":  "1974",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1975/76",
+                       "label":  "1975",
+                       "league":  "Serie A",
+                       "position":  13,
+                       "positionLabel":  "13\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1987",
+                       "target":  "1987",
+                       "showLabel":  false,
+                       "note":  "Salvezza all\u0027ultima giornata"
+                   },
+                   {
+                       "season":  "1976/77",
+                       "label":  "1976",
+                       "league":  "Serie A",
+                       "position":  5,
+                       "positionLabel":  "5\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1987",
+                       "target":  "1987",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1977/78",
+                       "label":  "1977",
+                       "league":  "Serie A",
+                       "position":  10,
+                       "positionLabel":  "10\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1987",
+                       "target":  "1987",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1978/79",
+                       "label":  "1978",
+                       "league":  "Serie A",
+                       "position":  8,
+                       "positionLabel":  "8\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1987",
+                       "target":  "1987",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1979/80",
+                       "label":  "1979",
+                       "league":  "Serie A",
+                       "position":  15,
+                       "positionLabel":  "13\u00b0 posto -\u003e 15\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1987",
+                       "target":  "1987",
+                       "showLabel":  false,
+                       "note":  "Retrocessione a tavolino per lo scandalo Totonero"
+                   },
+                   {
+                       "season":  "1980/81",
+                       "label":  "1980",
+                       "league":  "Serie B",
+                       "position":  4,
+                       "positionLabel":  "4\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1987",
+                       "target":  "1987",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1981/82",
+                       "label":  "1981",
+                       "league":  "Serie B",
+                       "position":  10,
+                       "positionLabel":  "10\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1987",
+                       "target":  "1987",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1982/83",
+                       "label":  "1982",
+                       "league":  "Serie B",
+                       "position":  2,
+                       "positionLabel":  "2\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1987",
+                       "target":  "1987",
+                       "showLabel":  false,
+                       "note":  "Promozione in Serie A"
+                   },
+                   {
+                       "season":  "1983/84",
+                       "label":  "1983",
+                       "league":  "Serie A",
+                       "position":  13,
+                       "positionLabel":  "13\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1987",
+                       "target":  "1987",
+                       "showLabel":  false,
+                       "note":  "Salvezza a Pisa all\u0027ultima giornata"
+                   },
+                   {
+                       "season":  "1984/85",
+                       "label":  "1984",
+                       "league":  "Serie A",
+                       "position":  15,
+                       "positionLabel":  "15\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1987",
+                       "target":  "1987",
+                       "showLabel":  false,
+                       "note":  "Retrocessione in Serie B"
+                   },
+                   {
+                       "season":  "1985/86",
+                       "label":  "1985",
+                       "league":  "Serie B",
+                       "position":  11,
+                       "positionLabel":  "11\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1987",
+                       "target":  "1987",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1986/87",
+                       "label":  "1986",
+                       "league":  "Serie B",
+                       "position":  16,
+                       "positionLabel":  "16\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1987",
+                       "target":  "1987",
+                       "showLabel":  true,
+                       "note":  "Salvezza ai mitici spareggi di Napoli (penalizzazione di -9)"
+                   },
+                   {
+                       "season":  "1987/88",
+                       "label":  "1987",
+                       "league":  "Serie B",
+                       "position":  3,
+                       "positionLabel":  "3\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-1987",
+                       "target":  "1987",
+                       "showLabel":  false,
+                       "note":  "Promozione in Serie A con Gianmarco Calleri"
+                   },
+                   {
+                       "season":  "1988/89",
+                       "label":  "1988",
+                       "league":  "Serie A",
+                       "position":  10,
+                       "positionLabel":  "10\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-1987",
+                       "target":  "1987",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1989/90",
+                       "label":  "1989",
+                       "league":  "Serie A",
+                       "position":  9,
+                       "positionLabel":  "9\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-2000",
+                       "target":  "1999",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1990/91",
+                       "label":  "1990",
+                       "league":  "Serie A",
+                       "position":  11,
+                       "positionLabel":  "11\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-2000",
+                       "target":  "1999",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1991/92",
+                       "label":  "1991",
+                       "league":  "Serie A",
+                       "position":  10,
+                       "positionLabel":  "10\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-2000",
+                       "target":  "1999",
+                       "showLabel":  false,
+                       "note":  "Passaggio societario a Sergio Cragnotti"
+                   },
+                   {
+                       "season":  "1992/93",
+                       "label":  "1992",
+                       "league":  "Serie A",
+                       "position":  5,
+                       "positionLabel":  "5\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-2000",
+                       "target":  "1999",
+                       "showLabel":  false,
+                       "note":  "Ritorno in Europa"
+                   },
+                   {
+                       "season":  "1993/94",
+                       "label":  "1993",
+                       "league":  "Serie A",
+                       "position":  4,
+                       "positionLabel":  "4\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-2000",
+                       "target":  "1999",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1994/95",
+                       "label":  "1994",
+                       "league":  "Serie A",
+                       "position":  2,
+                       "positionLabel":  "2\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-2000",
+                       "target":  "1999",
+                       "showLabel":  false,
+                       "note":  "Sotto la guida di ZdenÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Âºk Zeman"
+                   },
+                   {
+                       "season":  "1995/96",
+                       "label":  "1995",
+                       "league":  "Serie A",
+                       "position":  3,
+                       "positionLabel":  "3\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-2000",
+                       "target":  "1999",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "1996/97",
+                       "label":  "1996",
+                       "league":  "Serie A",
+                       "position":  4,
+                       "positionLabel":  "4\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-2000",
+                       "target":  "1999",
+                       "showLabel":  false,
+                       "note":  "Subentra Dino Zoff a Zeman"
+                   },
+                   {
+                       "season":  "1997/98",
+                       "label":  "1997",
+                       "league":  "Serie A",
+                       "position":  7,
+                       "positionLabel":  "7\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-2000",
+                       "target":  "1999",
+                       "showLabel":  false,
+                       "note":  "Inizio era Eriksson, vittoria Coppa Italia"
+                   },
+                   {
+                       "season":  "1998/99",
+                       "label":  "1998",
+                       "league":  "Serie A",
+                       "position":  2,
+                       "positionLabel":  "2\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-2000",
+                       "target":  "1999",
+                       "showLabel":  false,
+                       "note":  "Vittoria dell\u0027ultima Coppa delle Coppe"
+                   },
+                   {
+                       "season":  "1999/00",
+                       "label":  "1999/2000",
+                       "league":  "Serie A",
+                       "position":  1,
+                       "positionLabel":  "1\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-2000",
+                       "target":  "1999",
+                       "showLabel":  true,
+                       "note":  "CAMPIONE D\u0027ITALIA (2ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€š\u00b0 Scudetto) nell\u0027anno del Centenario"
+                   },
+                   {
+                       "season":  "2000/01",
+                       "label":  "2000",
+                       "league":  "Serie A",
+                       "position":  3,
+                       "positionLabel":  "3\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-2000",
+                       "target":  "1999",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "2001/02",
+                       "label":  "2001",
+                       "league":  "Serie A",
+                       "position":  6,
+                       "positionLabel":  "6\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-2000",
+                       "target":  "1999",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "2002/03",
+                       "label":  "2002",
+                       "league":  "Serie A",
+                       "position":  4,
+                       "positionLabel":  "4\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-2000",
+                       "target":  "1999",
+                       "showLabel":  false,
+                       "note":  "Stagione in regime di \"Lazio Batch\" (Mancini)"
+                   },
+                   {
+                       "season":  "2003/04",
+                       "label":  "2003",
+                       "league":  "Serie A",
+                       "position":  6,
+                       "positionLabel":  "6\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-2000",
+                       "target":  "1999",
+                       "showLabel":  true,
+                       "note":  "Vittoria Coppa Italia, subentra Claudio Lotito in estate"
+                   },
+                   {
+                       "season":  "2004/05",
+                       "label":  "2004",
+                       "league":  "Serie A",
+                       "position":  10,
+                       "positionLabel":  "10\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-2004",
+                       "target":  "2004",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "2005/06",
+                       "label":  "2005",
+                       "league":  "Serie A",
+                       "position":  16,
+                       "positionLabel":  "6\u00b0 posto -\u003e 16\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  "Posizionamento modificato dalle sentenze Calciopoli"
+                   },
+                   {
+                       "season":  "2006/07",
+                       "label":  "2006",
+                       "league":  "Serie A",
+                       "position":  3,
+                       "positionLabel":  "3\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  "Qualificazione in Champions League con Delio Rossi"
+                   },
+                   {
+                       "season":  "2007/08",
+                       "label":  "2007",
+                       "league":  "Serie A",
+                       "position":  12,
+                       "positionLabel":  "12\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "2008/09",
+                       "label":  "2008",
+                       "league":  "Serie A",
+                       "position":  10,
+                       "positionLabel":  "10\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  "Vittoria della Coppa Italia"
+                   },
+                   {
+                       "season":  "2009/10",
+                       "label":  "2009",
+                       "league":  "Serie A",
+                       "position":  12,
+                       "positionLabel":  "12\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  "Stagione travagliata risolta dall\u0027arrivo di Edy Reja"
+                   },
+                   {
+                       "season":  "2010/11",
+                       "label":  "2010",
+                       "league":  "Serie A",
+                       "position":  5,
+                       "positionLabel":  "5\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "2011/12",
+                       "label":  "2011",
+                       "league":  "Serie A",
+                       "position":  4,
+                       "positionLabel":  "4\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "2012/13",
+                       "label":  "2012",
+                       "league":  "Serie A",
+                       "position":  7,
+                       "positionLabel":  "7\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  "Vittoria della storica Coppa Italia in finale nel Derby (26 maggio)"
+                   },
+                   {
+                       "season":  "2013/14",
+                       "label":  "2013",
+                       "league":  "Serie A",
+                       "position":  9,
+                       "positionLabel":  "9\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "2014/15",
+                       "label":  "2014",
+                       "league":  "Serie A",
+                       "position":  3,
+                       "positionLabel":  "3\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  "Podio e preliminari di Champions con Stefano Pioli"
+                   },
+                   {
+                       "season":  "2015/16",
+                       "label":  "2015",
+                       "league":  "Serie A",
+                       "position":  8,
+                       "positionLabel":  "8\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  "Subentra Simone Inzaghi nel finale"
+                   },
+                   {
+                       "season":  "2016/17",
+                       "label":  "2016",
+                       "league":  "Serie A",
+                       "position":  5,
+                       "positionLabel":  "5\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  ""
+                   },
+                   {
+                       "season":  "2017/18",
+                       "label":  "2017",
+                       "league":  "Serie A",
+                       "position":  5,
+                       "positionLabel":  "5\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  "Qualificazione Champions sfumata all\u0027ultimo turno"
+                   },
+                   {
+                       "season":  "2018/19",
+                       "label":  "2018",
+                       "league":  "Serie A",
+                       "position":  8,
+                       "positionLabel":  "8\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  "Vittoria della Coppa Italia"
+                   },
+                   {
+                       "season":  "2019/20",
+                       "label":  "2019",
+                       "league":  "Serie A",
+                       "position":  4,
+                       "positionLabel":  "4\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  "Ritorno in Champions League (campionato segnato dal Covid)"
+                   },
+                   {
+                       "season":  "2020/21",
+                       "label":  "2020",
+                       "league":  "Serie A",
+                       "position":  6,
+                       "positionLabel":  "6\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  "Fine del ciclo di Simone Inzaghi"
+                   },
+                   {
+                       "season":  "2021/22",
+                       "label":  "2021",
+                       "league":  "Serie A",
+                       "position":  5,
+                       "positionLabel":  "5\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  "Arrivo di Maurizio Sarri"
+                   },
+                   {
+                       "season":  "2022/23",
+                       "label":  "2022",
+                       "league":  "Serie A",
+                       "position":  2,
+                       "positionLabel":  "2\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  true,
+                       "note":  "Vicecampione d\u0027Italia e qualificazione in Champions"
+                   },
+                   {
+                       "season":  "2023/24",
+                       "label":  "2023",
+                       "league":  "Serie A",
+                       "position":  7,
+                       "positionLabel":  "7\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  "Dimissioni di Sarri, parentesi Tudor"
+                   },
+                   {
+                       "season":  "2024/25",
+                       "label":  "2024",
+                       "league":  "Serie A",
+                       "position":  5,
+                       "positionLabel":  "5\u00b0 posto",
+                       "status":  "peak",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  false,
+                       "note":  "Sotto la guida tecnica di Marco Baroni"
+                   },
+                   {
+                       "season":  "2025/26",
+                       "label":  "oggi",
+                       "league":  "Serie A",
+                       "position":  9,
+                       "positionLabel":  "9\u00b0 posto",
+                       "status":  "stable",
+                       "card":  "card-oggi",
+                       "target":  "oggi",
+                       "showLabel":  true,
+                       "note":  "Stagione appena conclusa"
+                   }
+               ],
+    "events":  [
+                   {
+                       "season":  "1943-1945",
+                       "label":  "1943",
+                       "league":  "-",
+                       "positionLabel":  "Sospensione attivita ufficiali per motivi bellici",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "note":  "Sospensione attivita ufficiali per motivi bellici"
+                   },
+                   {
+                       "season":  "1945/46",
+                       "label":  "1945",
+                       "league":  "Div. Nazionale",
+                       "positionLabel":  "7\u00b0 posto nel girone finale",
+                       "card":  "card-1927",
+                       "target":  "1927",
+                       "note":  "Campionato post-guerra misto"
+                   }
+               ],
+    "timeline":  {
+                     "startYear":  1900,
+                     "endYear":  2026
+                 },
+    "presidents":  [
+                       {
+                           "name":  "Giuseppe Pedercini",
+                           "startYear":  1901,
+                           "endYear":  1904,
+                           "display":  "dot",
+                           "note":  "Primo presidente ufficiale dopo l\u0027approvazione dello statuto sociale."
+                       },
+                       {
+                           "name":  "Fortunato Ballerini",
+                           "startYear":  1904,
+                           "endYear":  1923,
+                           "display":  "bar",
+                           "note":  "Guido la societa per circa venti anni, portandola a rilievo nazionale e all\u0027Ente Morale nel 1921."
+                       },
+                       {
+                           "name":  "Giorgio Guglielmi e Gerardo Branca",
+                           "startYear":  1924,
+                           "endYear":  1925,
+                           "display":  "dot",
+                           "note":  "Guglielmi raccolse l\u0027eredita di Ballerini nel 1924, lasciando poi le funzioni a Gerardo Branca."
+                       },
+                       {
+                           "name":  "Ettore Varini",
+                           "startYear":  1927,
+                           "endYear":  1930,
+                           "display":  "dot",
+                           "note":  "Nominato nel giugno 1927, nel momento critico del rischio fusione con altre squadre romane."
+                       },
+                       {
+                           "name":  "Francesco Starace",
+                           "startYear":  1930,
+                           "endYear":  1932,
+                           "display":  "dot",
+                           "note":  "Assunse la guida della societa nel 1930."
+                       },
+                       {
+                           "name":  "Eugenio Gualdi",
+                           "startYear":  1933,
+                           "endYear":  1938,
+                           "display":  "bar",
+                           "note":  "Porto la Lazio ai vertici del calcio italiano con grandi investimenti."
+                       },
+                       {
+                           "name":  "Raffaello Riccardi",
+                           "startYear":  1938,
+                           "endYear":  1939,
+                           "display":  "dot",
+                           "note":  "Succedette a Gualdi nel 1938, restando in carica fino al luglio 1939."
+                       },
+                       {
+                           "name":  "Remo Zenobi",
+                           "startYear":  1939,
+                           "endYear":  1953,
+                           "display":  "bar",
+                           "note":  "Guido il club nella ricostruzione del dopoguerra fino alla sua morte nel maggio 1953."
+                       },
+                       {
+                           "name":  "Costantino Tessarolo ed Erberto Vaselli",
+                           "startYear":  1953,
+                           "endYear":  1958,
+                           "display":  "bar",
+                           "note":  "Gestione successiva alla scomparsa di Zenobi, con Tessarolo ed Erberto Vaselli."
+                       },
+                       {
+                           "name":  "Leonardo Siliato",
+                           "startYear":  1958,
+                           "endYear":  1960,
+                           "display":  "dot",
+                           "note":  "Durante la sua gestione la Lazio vinse la prima Coppa Italia nel 1958."
+                       },
+                       {
+                           "name":  "Massimo Giovannini",
+                           "startYear":  1961,
+                           "endYear":  1962,
+                           "display":  "dot",
+                           "note":  "Commissario della societa per conto della Lega nel febbraio 1961."
+                       },
+                       {
+                           "name":  "Ernesto Brivio",
+                           "startYear":  1962,
+                           "endYear":  1963,
+                           "display":  "dot",
+                           "note":  "Presidente dal settembre 1962 al febbraio 1963."
+                       },
+                       {
+                           "name":  "Angelo Miceli",
+                           "startYear":  1963,
+                           "endYear":  1964,
+                           "display":  "dot",
+                           "note":  "Gestione in un periodo di instabilita finanziaria, anche come commissario straordinario."
+                       },
+                       {
+                           "name":  "Giorgio Vaccaro",
+                           "startYear":  1964,
+                           "endYear":  1965,
+                           "display":  "dot",
+                           "note":  "Presidenza affidata nell\u0027ottobre 1964 in un momento di grave crisi finanziaria."
+                       },
+                       {
+                           "name":  "Umberto Lenzini",
+                           "startYear":  1965,
+                           "endYear":  1980,
+                           "display":  "bar",
+                           "note":  "Presidente del primo storico Scudetto del 1974."
+                       },
+                       {
+                           "name":  "Aldo Lenzini",
+                           "startYear":  1980,
+                           "endYear":  1981,
+                           "display":  "dot",
+                           "note":  "Succedette al fratello Umberto nel settembre 1980."
+                       },
+                       {
+                           "name":  "Gian Chiarion Casoni",
+                           "startYear":  1981,
+                           "endYear":  1983,
+                           "display":  "dot",
+                           "note":  "Eletto presidente il 23 luglio 1981."
+                       },
+                       {
+                           "name":  "Giorgio Chinaglia",
+                           "startYear":  1983,
+                           "endYear":  1985,
+                           "display":  "dot",
+                           "note":  "L\u0027idolo dei tifosi torno come presidente nel giugno 1983, lasciando a fine 1985."
+                       },
+                       {
+                           "name":  "Gianmarco Calleri",
+                           "startYear":  1986,
+                           "endYear":  1992,
+                           "display":  "bar",
+                           "note":  "Rilevo la societa con il fratello Giorgio, risanando i bilanci prima della cessione."
+                       },
+                       {
+                           "name":  "Sergio Cragnotti",
+                           "startYear":  1992,
+                           "endYear":  2003,
+                           "display":  "bar",
+                           "note":  "Acquisto la Lazio nel febbraio 1992 e la porto nel periodo piu vincente."
+                       },
+                       {
+                           "name":  "Dino Zoff",
+                           "startYear":  1994,
+                           "endYear":  1998,
+                           "display":  "dot",
+                           "note":  "Presidente per quattro anni su indicazione di Cragnotti; riportato come punto per evitare sovrapposizione."
+                       },
+                       {
+                           "name":  "Ugo Longo",
+                           "startYear":  2003,
+                           "endYear":  2004,
+                           "display":  "dot",
+                           "note":  "Presidente della transizione dopo l\u0027uscita di scena di Cragnotti."
+                       },
+                       {
+                           "name":  "Claudio Lotito",
+                           "startYear":  2004,
+                           "endYear":  2026,
+                           "endLabel":  "oggi",
+                           "display":  "bar",
+                           "note":  "Ha acquisito la societa il 19 luglio 2004, salvandola dal fallimento fiscale."
+                       }
+                   ]
+}

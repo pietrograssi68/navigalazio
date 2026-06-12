@@ -1,0 +1,2250 @@
+{
+    "titleRuns":  [
+                      {
+                          "text":  "Cronaca di un’Epopea: 126 Anni di Storia Biancoceleste (1900-2026)",
+                          "strong":  true
+                      }
+                  ],
+    "introRuns":  [
+                      {
+                          "text":  "La storia della ",
+                          "strong":  false
+                      },
+                      {
+                          "text":  "Lazio",
+                          "strong":  true
+                      },
+                      {
+                          "text":  " non è una mera cronologia atletica, ma un’affermazione ideale che affonda le radici nella Roma di inizio Novecento. In un’Italia depressa dalle ambizioni infrante del governo Crispi e dalla tragica disfatta di Adua, la scelta del nome \"",
+                          "strong":  false
+                      },
+                      {
+                          "text":  "Lazio",
+                          "strong":  true
+                      },
+                      {
+                          "text":  "\" rappresentò un atto di audacia geografica: mirare a un\u0027entità più vasta dei confini cittadini. I colori biancocelesti, scelti in onore della Grecia patria delle Olimpiadi, elevarono il club a simbolo di universalità e purezza, rappresentata dall\u0027Aquila che scruta le vette. Fondata da nove \"fiumaroli\", la società nacque come leva di speranza per una nazione che non si rassegnava alla sconfitta.",
+                          "strong":  false
+                      }
+                  ],
+    "items":  [
+                  {
+                      "type":  "chapter",
+                      "period":  "1900-1918",
+                      "title":  "L’Alba dell\u0027Ideale: Dalla Fondazione alla Grande Guerra (1900-1918)",
+                      "bodyRuns":  [
+
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1900",
+                      "label":  "1900-1918",
+                      "title":  "La Genesi di Piazza della Libertà",
+                      "className":  "origin",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il 9 gennaio, presso il quartiere Prati, ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Luigi Bigiarelli",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", sottoufficiale reduce dalla ritirata di Adua, catalizza la speranza di un’Italia depressa fondando la Società Podistica ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". Nella sede di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "via ",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  "Valladier",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " 21",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", la luce brilla solo un\u0027ora al giorno per indigenza, ma l\u0027ideale arde perenne. Scegliere il nome \"",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  "\" significa superare i confini cittadini per abbracciare un\u0027entità geografica superiore, mentre i colori della Grecia olimpica elevano il club a simbolo di universalità. È l’alba della \"Lazialità\", dove l’Aquila, emblema di purezza, inizia il suo fiero volo dalle sponde del Tevere.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1901",
+                      "label":  "1900-1918",
+                      "title":  "L’Arrivo del Cuoio: Nasce il Football",
+                      "className":  "origin",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "L’evoluzione verso il calcio avviene grazie a ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Bruno Seghettini",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", giunto da Parigi con il primo pallone di cuoio mai visto dai giovani laziali. Sotto la guida di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Sante ",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  "Ancherani",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", i biancocelesti iniziano ad allenarsi a ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Piazza d\u0027Armi",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". Per finanziare la sede, i soci ricorrono a espedienti ingegnosi: sottraggono il cane di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Alberto Mesones",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " inscenando finti sequestri per incassare le ricompense messe a disposizione dalla ignara madre del fondatore. Questo spirito d’adattamento trasforma rapidamente la podistica nel primo polo calcistico della Capitale, attirando una gioventù desiderosa di riscatto sportivo.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1904",
+                      "label":  "1900-1918",
+                      "title":  "Il Primo Derby della Capitale",
+                      "className":  "origin",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il 15 maggio, a ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Piazza d\u0027Armi",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", si consuma il primo confronto cittadino contro la Virtus. La ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " si impone con un netto 3-0, stabilendo una supremazia tecnica che la vedrà trionfare l\u0027anno successivo anche nel Campionato di Roma, superando la stessa Virtus e i giallorossi del Roman. È il periodo in cui il calcio inizia a rubare la scena alla podistica, attirando un pubblico sempre più numeroso tra i prati ancora verdi del quartiere Prati, consolidando il ruolo della società come pioniera assoluta del football romano.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1908",
+                      "label":  "1900-1918",
+                      "title":  "L’Impresa Epica di Pisa",
+                      "className":  "origin",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il 7 giugno, la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " compie un’impresa leggendaria a Pisa, vincendo tre partite in un solo giorno contro Lucca, Pisa e Livorno, senza subire nemmeno una rete. La notizia giunge a Roma in modo così frammentario che i soci in sede non comprendono immediatamente la portata del successo, faticando a interpretare quei tre risultati simultanei. Questo trionfo conferma il valore di un gruppo che, pur tra mille difficoltà economiche, inizia a farsi rispettare anche fuori dai confini regionali, gettando le basi per il definitivo riconoscimento nel panorama nazionale.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1911",
+                      "label":  "1900-1918",
+                      "title":  "L’Aquila sul Petto e il Riconoscimento Ufficiale",
+                      "className":  "origin",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Mentre a Roma nasce il primo comitato regionale della Federcalcio, la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " adotta ufficialmente l’Aquila come stemma, simbolo di fierezza e appartenenza alle alte vette. La squadra domina il girone regionale, staccando nettamente le altre realtà locali nel campionato di Terza Categoria. La società è ormai una realtà consolidata che non si limita più all\u0027attività podistica, ma aspira a confrontarsi con i grandi squadroni del Nord, nonostante il divario tecnico e organizzativo dell\u0027epoca sia ancora marcato dalla superiorità delle corazzate piemontesi e lombarde.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1913",
+                      "label":  "1900-1918",
+                      "title":  "Il Primo Titolo di Campione del Centro-Sud",
+                      "className":  "origin",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "La ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " entra ufficialmente nell\u0027élite nazionale, qualificandosi per la finale scudetto dopo aver dominato il torneo del Centro-Sud. A Genova, tuttavia, subisce una dura lezione dalla fortissima ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Pro Vercelli",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", perdendo 6-1. È una sconfitta amara ma necessaria per comprendere il livello del calcio d\u0027eccellenza. Nonostante la delusione tecnica, il club viene accolto a Roma con immenso orgoglio: la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " è ufficialmente la squadra guida di un’intera area geografica italiana, pronta a sfidare l\u0027egemonia delle potenze calcistiche settentrionali.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1914",
+                      "label":  "1900-1918",
+                      "title":  "La Nuova Sfida al Nord",
+                      "className":  "origin",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Per il secondo anno consecutivo, i biancocelesti raggiungono la finale nazionale, questa volta capitolando contro il ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Casale",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". Anche in questa occasione, il doppio confronto premia la squadra piemontese, evidenziando come la crescita della ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " necessiti di un ulteriore salto di qualità tecnico. Lo scoppio della Grande Guerra sospenderà bruscamente i sogni di gloria, portando molti atleti e soci al fronte. Lo spirito dei \"fiumaroli\", tuttavia, forgerà una resilienza identitaria capace di sopravvivere al conflitto bellico e di preparare il terreno per l\u0027ascesa dei primi grandi campioni.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "chapter",
+                      "period":  "1919-1945",
+                      "title":  "L’Affermazione Nazionale e l\u0027Era di Silvio Piola (1919-1945)",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Nel periodo tra le due guerre, la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " matura una coscienza identitaria incrollabile. Il rifiuto della fusione imposta nel 1927 non fu solo un atto burocratico, ma la fiera rivendicazione di un\u0027autonomia morale: la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " scelse di restare se stessa, custode dei propri colori e della propria tradizione multisportiva.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1919",
+                      "label":  "1919-1945",
+                      "title":  "L’Esordio del Mito: Fulvio Bernardini",
+                      "className":  "identity",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "A soli 13 anni e mezzo, il giovanissimo ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Fulvio Bernardini",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " entra a far parte della società. Inizialmente schierato come portiere, viene presto spostato al centro dell\u0027attacco per volontà della famiglia, rivelando un talento cristallino e una visione di gioco superiore. \"Fuffo\" diventerà il primo grande leader carismatico del calcio romano, capace di interpretare ogni ruolo con un\u0027eleganza che incarna perfettamente lo stile e la classe che la società biancoceleste intende rappresentare, diventando un punto di riferimento per l\u0027intero movimento calcistico del Centro-Sud.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1925",
+                      "label":  "1919-1945",
+                      "title":  "Bernardini in Nazionale e il Nuovo Nome",
+                      "className":  "identity",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "La società assume ufficialmente la denominazione di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Società Sportiva Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", sancendo la sua transizione verso una polisportiva di respiro globale. È l\u0027anno della consacrazione per ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Fulvio Bernardini",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", che diventa il primo giocatore del Centro-Sud a essere convocato nella Nazionale maggiore per la sfida contro la Francia a Torino. Al suo ritorno, viene accolto alla stazione da una folla oceanica e celebrato con un banchetto memorabile al ristorante La Rosetta, a testimonianza di come la sua figura fosse ormai assurta a simbolo identitario per tutta la città.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1927",
+                      "label":  "1919-1945",
+                      "title":  "La Grande Resistenza: No alla Fusione",
+                      "className":  "identity",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Mentre il regime preme per la fusione delle squadre romane nella neonata Roma, la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " oppone un rifiuto storico grazie al generale ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Giorgio Vaccaro",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". Davanti alla prospettiva di perdere nome, colori e campo, la società rivendica la propria superiorità morale e storica. Questo atto fondante stabilisce un confine netto tra le due fazioni cittadine: la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " resta l\u0027unica realtà capace di preservare la propria integrità originaria di fronte alle pressioni politiche fasciste, custode di un\u0027identità che non accetta compromessi né assorbimenti.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1929",
+                      "label":  "1919-1945",
+                      "title":  "Mussolini Socio e l\u0027Inizio del Girone Unico",
+                      "className":  "identity",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Con l’avvento del girone unico, la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " entra nell\u0027era del calcio moderno. Il 6 ottobre, ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Benito Mussolini",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " si iscrive come socio del club, versando la quota di 1000 lire. Il Duce e i suoi figli diventano presenze frequenti sugli spalti della ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Rondinella",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " e dello ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Stadio Nazionale",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". È un periodo di consolidamento in cui la squadra cerca di colmare il divario con le potenze del Nord, affidandosi a figure leggendarie come il ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "portiere-capitano ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Ezio Sclavi",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", eroe della Farnesina capace di parate strepitose nonostante precarie condizioni di salute.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1931",
+                      "label":  "1919-1945",
+                      "title":  "Il Derby della Cavalleria",
+                      "className":  "identity",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il derby del 24 maggio si trasforma in una battaglia epica. Dopo una rissa in campo tra il generale ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Vaccaro",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " e il romanista ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "De Micheli",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", la situazione degenera coinvolgendo le tifoserie in un\u0027invasione di campo senza precedenti. Per la prima e unica volta nella storia, una carica di Carabinieri a cavallo deve fare irruzione sul terreno di gioco per interrompere i disordini. La partita termina 2-2, ma l\u0027evento segna per sempre l\u0027intensità della rivalità cittadina, ormai divenuta una questione di ordine pubblico e orgoglio identitario.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1932",
+                      "label":  "1919-1945",
+                      "title":  "La Prima Vittoria nel Derby",
+                      "className":  "identity",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Dopo anni di sofferta attesa, il 23 ottobre la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " conquista finalmente la prima vittoria stracittadina ufficiale. Grazie alla sapiente guida tecnica di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Ratto Castelli",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " e alle prodezze di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "De Maria",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", i biancocelesti espugnano lo ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Stadio Nazionale",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", regalando al popolo laziale una gioia attesa sin dalla nascita della rivalità. È il segnale inequivocabile che i rapporti di forza stanno mutando e che la società, sotto la spinta di nuovi dirigenti, è pronta a investire risorse importanti per raggiungere il vertice assoluto del calcio italiano.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1934",
+                      "label":  "1919-1945",
+                      "title":  "La Manovra Politica: L\u0027Arrivo di Silvio Piola",
+                      "className":  "identity",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il presidente ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Eugenio Gualdi",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " mette a segno il colpo del secolo acquistando dalla Pro Vercelli il ventunenne ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Silvio Piola",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". Nonostante le resistenze del giocatore, che non intendeva lasciare le prestigiose ribalte del Nord per la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " dell\u0027epoca, l\u0027intervento diretto dello ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Stato Maggiore fascista",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " diventa risolutivo. Questa manovra politica, volta a rafforzare il prestigio calcistico della Capitale, porta a Roma il centravanti che aveva già segnato 6 gol alla Fiorentina. Piola diventerà il fulcro di una corazzata laziale finalmente capace di competere per lo scudetto.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1937",
+                      "label":  "1919-1945",
+                      "title":  "Il Sogno Europeo e il Rigore di Piola",
+                      "className":  "identity",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "La ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " raggiunge la finale di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Coppa Europa",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " contro il ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Ferencvaros",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". Dopo la sconfitta a Budapest, la gara di ritorno a Roma vede i biancocelesti condurre per 4-3. Al 70’, un rigore potrebbe pareggiare i conti totali, ma l\u0027infallibile ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Silvio Piola",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", forse condizionato dai suggerimenti del CT Pozzo appostato dietro la porta ungherese, sbaglia la conclusione. La gara finisce 5-4 per i maestri magiari, sancendo la fine di un sogno continentale, ma confermando la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " come una delle realtà calcistiche più prestigiose e rispettate del continente.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1938",
+                      "label":  "1919-1945",
+                      "title":  "Piola Campione del Mondo",
+                      "className":  "identity",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il prestigio della ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " raggiunge l\u0027apice mondiale grazie a ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Silvio Piola",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", protagonista assoluto del trionfo azzurro in Francia. Prima della partenza, il presidente ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Zenobi",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " gli regala dei parastinchi speciali per proteggere le sue lunghe tibie. Piola ripaga l\u0027affetto segnando due reti nella finale di Parigi contro l\u0027Ungheria, portando l\u0027Italia sul tetto del mondo. Consacrato come il più grande attaccante della sua epoca, diventa un mito vivente per il popolo biancoceleste, simbolo di una superiorità tecnica che ora parla finalmente laziale.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1941",
+                      "label":  "1919-1945",
+                      "title":  "L\u0027Eroe Insanguinato",
+                      "className":  "identity",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "In un derby drammatico, ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Silvio Piola",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " subisce una ferita profonda alla fronte in uno scontro di gioco. Rifiutando di abbandonare il campo, resta in gioco con una vistosa fasciatura intrisa di sangue e segna due gol memorabili, uno dei quali proprio di testa. Questo gesto di immenso attaccamento ai colori biancocelesti entra di diritto nella mitologia del club, elevando Piola a simbolo di una volontà indomita che non conosce ostacoli fisici, incarnando lo spirito guerriero che definisce l\u0027essenza stessa della Lazialità.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1943",
+                      "label":  "1919-1945",
+                      "title":  "L’Ultimo Volo di Piola",
+                      "className":  "identity",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Nell\u0027ultima partita prima della sospensione bellica, ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Silvio Piola",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " segna un gol memorabile contro l\u0027Atalanta con una delle sue celebri rovesciate a forbice. È il ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "sigillo finale di un decennio straordinario, durante il quale l\u0027attaccante ha trasformato la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " in una potenza del campionato. La guerra interrompe bruscamente questa epopea, portando nel 1945 alla cessione forzata del campionissimo alla Juventus per rimpinguare le casse societarie. Un addio che segna la fine di un\u0027era irripetibile, traghettando il club verso la difficile ricostruzione post-bellica.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "chapter",
+                      "period":  "1946-1959",
+                      "title":  "Dalla Stirpe dei Sentimenti al Primo Trionfo Nazionale (1946-1959)",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Gli anni \u002750 rappresentano per la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " il decennio dell\u0027internazionalizzazione e della stabilità. Attraverso l\u0027innesto di campioni stranieri e la solidità dei \"Sentimenti\", il club si prepara alla definitiva validazione storica sul campo.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1949",
+                      "label":  "1946-1959",
+                      "title":  "L’Arrivo di Sentimenti IV",
+                      "className":  "europe",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Dalla Juventus approda a Roma ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lucidio Sentimenti IV",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", capostipite di una stirpe familiare che vedrà anche i fratelli Vittorio e Primo vestire il biancoceleste. Portiere dallo stile impeccabile e dalle celebri uscite di piede, \"Cochi\" diventa subito un idolo. La sua presenza garantisce alla difesa una sicurezza assoluta, permettendo alla squadra di competere stabilmente con le grandi potenze del Nord. Inizia un triennio d\u0027oro caratterizzato da tre quarti posti consecutivi, consolidando la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " tra le \"nobili\" indiscusse del calcio italiano del dopoguerra.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1950",
+                      "label":  "1946-1959",
+                      "title":  "Il Primo Alloro Internazionale: Coppa Herrera",
+                      "className":  "europe",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Sotto la guida dell\u0027argentino ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Enrico Flamini",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " conquista la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Coppa Herrera",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", il suo primo trofeo internazionale ufficiale. È il riconoscimento di una crescita tecnica costante che vede brillare campioni stranieri come il turco ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Suku",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " e il paraguaiano ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Arce",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". La società dimostra di poter recitare un ruolo da protagonista anche fuori dai confini nazionali, attirando l\u0027attenzione della critica e confermando la vocazione cosmopolita della polisportiva, capace di primeggiare in tornei di prestigio che coinvolgono l\u0027élite calcistica del periodo.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1955",
+                      "label":  "1946-1959",
+                      "title":  "L’Era di Bob Lovati e \"Raggio di Luna\"",
+                      "className":  "europe",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il presidente ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Tessarolo",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " mette a segno colpi di mercato sensazionali, portando a Roma lo svedese ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Arne Selmosson",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", soprannominato \"",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Raggio di Luna",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  "\" per la sua eleganza, e il centravanti ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Bettini",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". Tra i pali si insedia ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Roberto Lovati",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", destinato a diventare una bandiera eterna del club. Sotto la guida dell\u0027inglese ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Jesse Carver",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", che ribattezza il portiere \"",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Bob",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  "\", la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " esprime un calcio moderno e spettacolare, chiudendo il campionato al terzo posto. È un bagliore di grandezza tecnica che entusiasma la tifoseria e preannuncia imminenti trionfi.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1958",
+                      "label":  "1946-1959",
+                      "title":  "La Validazione Storica: La Coppa Italia",
+                      "className":  "europe",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il ritorno di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Fulvio Bernardini",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " in panchina segna la svolta. Il primo grande leader biancoceleste torna per guidare la squadra verso la finale di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Coppa Italia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " contro la Fiorentina. Il 24 settembre, all\u0027Olimpico, un gol di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Prini",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " decide la sfida. ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Bernardini",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " rompe la sua compostezza esultando in campo: è il primo trofeo nazionale ufficiale della storia. Questa vittoria rappresenta la validazione definitiva dei valori laziali, un riconoscimento atteso per oltre mezzo secolo che premia la resilienza di un club nato da un ideale puro.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "chapter",
+                      "period":  "1960-1974",
+                      "title":  "Cadute, Risalite e la \"Banda Maestrelli\" (1960-1974)",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il periodo tra il 1960 e il 1974 è un ottovolante sociologico. Dalla polvere della Serie B e dallo scandalo del gol fantasma, emerge un gruppo di \"Bad Boys\" guidati da un padre saggio, capaci di riflettere le tensioni e l\u0027energia di un\u0027epoca irrequieta.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1961",
+                      "label":  "1960-1974",
+                      "title":  "L’Onte della Prima Caduta",
+                      "className":  "gold",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Dopo un decennio di stabilità, la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " vive il momento più buio: la prima retrocessione in Serie B. La cessione dolorosa di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Arne Selmosson",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " alla Roma, avvenuta contro la volontà dei tifosi che arrivano a strappare i giornalisti dalle redazioni per ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "protestare, segna l\u0027inizio di una crisi che porta all\u0027esonero di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Bernardini",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". È un trauma profondo per l\u0027ambiente, che si ritrova improvvisamente lontano dal calcio d\u0027élite, alle prese con pesanti passivi di bilancio e una ricostruzione tecnica estremamente complessa.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1962",
+                      "label":  "1960-1974",
+                      "title":  "Lo Scandalo del Gol Fantasma",
+                      "className":  "gold",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "In un drammatico scontro promozione contro il Napoli, alla ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " viene negato un gol solare di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Seghedoni",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ": la palla entra in rete ed esce da un buco nella maglia della porta, ingannando l\u0027arbitro Rigato. Lo 0-0 finale impedisce il ritorno immediato in Serie A per un solo punto. Questo episodio resta una ferita aperta nella memoria collettiva, simbolo delle avversità che spesso hanno costellato il cammino biancoceleste, ma alimenta un desiderio di riscatto che forgerà la tempra dei futuri campioni.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1965",
+                      "label":  "1960-1974",
+                      "title":  "L’Elezione di Umberto Lenzini",
+                      "className":  "gold",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il 18 novembre inizia l\u0027era di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Umberto Lenzini",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", un presidente passionale e paterno che segnerà il destino del club. \"Papà Lenzini\" si dedica anima e corpo alla società, proteggendo i suoi ragazzi come una famiglia e investendo risorse per riportare la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " ai vertici. Sotto la sua guida, la società diventa una SPA e inizia a gettare le basi per la creazione di un gruppo granitico, capace di superare le alterne fortune tra Serie A e Serie B con fierezza.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1969",
+                      "label":  "1960-1974",
+                      "title":  "L\u0027Arrivo di Chinaglia e Wilson",
+                      "className":  "gold",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Dall\u0027",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Internapoli",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  " arrivano due giovani destinati a cambiare la storia: il centravanti ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Giorgio Chinaglia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " e il difensore ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Pino Wilson",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". È l\u0027inizio della \"verticale\" che porterà la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " in cima all\u0027Italia. ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Chinaglia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", con la sua irruenza e il suo carisma da trascinatore, diventa subito l\u0027idolo indiscusso delle folle, mentre ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Wilson",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " garantisce eleganza e intelligenza tattica alla difesa. Insieme a loro, la squadra centra un ottavo posto che preannuncia la nascita di una compagine finalmente competitiva ai massimi livelli.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1971",
+                      "label":  "1960-1974",
+                      "title":  "Tommaso Maestrelli: L\u0027Arrivo del Maestro",
+                      "className":  "gold",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Dopo un\u0027altra retrocessione, la panchina viene affidata a ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Tommaso Maestrelli",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". Uomo mite, sottile psicologo e tecnico innovativo, il \"Maestro\" diventa il \"Pater ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Familias",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "\" di uno spogliatoio turbolento e diviso in fazioni contrapposte che si sfidano persino in allenamento. La sua capacità di unire personalità fortissime e contrastanti trasforma la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " in una macchina da guerra tattica. Vince subito il derby in ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Coppa Italia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " e riporta la squadra in Serie A, dando inizio a un ciclo sportivo irripetibile.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1973",
+                      "label":  "1960-1974",
+                      "title":  "Lo Scudetto Sfiorato all\u0027Ultimo Respiro",
+                      "className":  "gold",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Da neopromossa, la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Maestrelli",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " stupisce l\u0027Italia con un \"calcio totale\" ispirato al modello olandese. Arriva all\u0027ultima giornata in lotta per il titolo con Juventus e Milan. A Napoli, tuttavia, un gol di Damiani all\u002788’ spegne i sogni tricolori. I biancocelesti chiudono al terzo posto tra le lacrime, ma la consapevolezza di essere tecnicamente superiori è ormai radicata in un gruppo che, guidato dal carisma di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Chinaglia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", non vede l\u0027ora di sferrare l\u0027attacco decisivo al titolo.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1974",
+                      "label":  "1960-1974",
+                      "title":  "Il Primo Storico Scudetto",
+                      "className":  "gold",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il 12 maggio, l\u0027Olimpico è una bolgia per la sfida contro il Foggia. Un calcio di rigore di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Giorgio Chinaglia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " regala alla ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " il primo ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Scudetto",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " della sua storia. È il trionfo della \"Banda Maestrelli\", un gruppo di eroi folli e divisi in spogliatoio ma uniti in campo, come ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Pulici",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Re Cecconi",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Wilson",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " e ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "D\u0027Amico",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". L\u0027Aquila vola finalmente più in alto di tutti, scrivendo una pagina epica che riflette perfettamente le tensioni e l\u0027energia di un\u0027epoca di ribellione e grandezza.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "chapter",
+                      "period":  "1975-1991",
+                      "title":  "La Resistenza: Dal Dramma agli Spareggi di Napoli (1975-1991)",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Gli anni tra il 1975 e il 1991 rappresentano il \"Golgota\" biancoceleste. Una sequenza di tragedie umane e scandali mette a dura prova la sopravvivenza del club, che trova nella propria tifoseria l\u0027unica ancora di salvezza identitaria.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1976",
+                      "label":  "1975-1991",
+                      "title":  "L’Addio al Maestro e la Fine di un\u0027Era",
+                      "className":  "dark",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il 2 dicembre si spegne ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Tommaso Maestrelli",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", sconfitto da una malattia incurabile. La perdita dell\u0027uomo-guida getta la squadra e l\u0027intero popolo laziale nello sconforto più cupo. Pochi mesi prima, anche ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Giorgio Chinaglia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " aveva lasciato la capitale per trasferirsi ai Cosmos. È la fine definitiva del ciclo d\u0027oro: la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " si ritrova improvvisamente orfana dei suoi simboli e della sua guida spirituale, salvandosi dalla retrocessione solo grazie alla migliore differenza reti in un clima di profonda tristezza.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1977",
+                      "label":  "1975-1991",
+                      "title":  "La Tragedia di Luciano Re Cecconi",
+                      "className":  "dark",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il 18 gennaio, un\u0027altra ferita mortale colpisce il cuore della ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Luciano Re Cecconi",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", l\u0027angelo biondo del centrocampo scudettato, muore tragicamente colpito da un proiettile durante una finta rapina in una gioielleria. Il dramma scuote l\u0027intero Paese e lascia i tifosi in un abisso di dolore insondabile. Nonostante il lutto devastante, il gruppo guidato da ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Luis Vinicio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " riesce a onorare la memoria del compagno raggiungendo un insperato quinto posto, trascinato dai gol del giovane bomber ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Bruno Giordano",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ".",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1979",
+                      "label":  "1975-1991",
+                      "title":  "Il Dramma di Vincenzo Paparelli",
+                      "className":  "dark",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il 28 ottobre si consuma il \"derby della vergogna\". Prima del fischio d\u0027inizio, un razzo sparato dalla curva sud colpisce a morte il tifoso laziale ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Vincenzo Paparelli",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". È un momento di buio assoluto per il calcio italiano. La gara si gioca in un clima irreale e spettrale, ma per il popolo biancoceleste il risultato non conta più: la perdita di un padre di famiglia allo stadio resta una cicatrice indelebile nella storia della \"Lazialità\", un dolore collettivo mai dimenticato.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1980",
+                      "label":  "1975-1991",
+                      "title":  "Lo Scandalo Scommesse e la Serie B",
+                      "className":  "dark",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il 23 marzo, la polizia irrompe negli stadi arrestando diversi giocatori, tra cui i biancocelesti ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Wilson",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Giordano",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " e ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Manfredonia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". La sentenza è durissima: la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " viene retrocessa d\u0027ufficio in Serie B. È il colpo di grazia a una società già stremata dalle tragedie umane. Inizia un lungo e sofferto periodo nel campionato cadetto, dove la squadra fatica a ritrovare la propria dimensione, ostacolata da squalifiche pesanti che privano il club dei suoi talenti migliori per anni.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1983",
+                      "label":  "1975-1991",
+                      "title":  "Il Ritorno di Chinaglia e la Promozione",
+                      "className":  "dark",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Dopo tre anni di purgatorio, la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " torna in Serie A chiudendo al secondo posto. L\u0027entusiasmo divampa quando ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Giorgio Chinaglia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " torna a Roma nelle vesti di presidente. Il suo ritorno sembra riaccendere i tempi d\u0027oro, ma l\u0027avventura dirigenziale di \"",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Long John",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  "\" si rivela finanziariamente fragile e priva dei necessari supporti economici. Nonostante la gioia iniziale per il ritorno del condottiero, la squadra fatica enormemente in campionato, salvandosi a stento dalla retrocessione immediata in un clima di crescente incertezza.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1987",
+                      "label":  "1975-1991",
+                      "title":  "Il Miracolo del -9 e il Gol di Fiorini",
+                      "className":  "dark",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "È l\u0027anno della sopravvivenza eroica. Penalizzata di 9 punti per un nuovo scandalo, la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Eugenio Fascetti",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " sembra condannata alla Serie C. Invece, grazie a un gol di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Giuliano Fiorini",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " contro il Vicenza e alla vittoria nello spareggio di Napoli contro il Campobasso firmata da ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Fabio Poli",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", la squadra compie un miracolo sportivo. Trentamila tifosi invadono Napoli per assistere alla salvezza più bella di sempre, un momento di pura sopravvivenza identitaria che cementa il legame tra popolo e maglia.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1989",
+                      "label":  "1975-1991",
+                      "title":  "Il Derby di Paolo Di Canio",
+                      "className":  "dark",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il 15 gennaio, un giovane prodotto del vivaio riporta la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " al successo nel derby dopo anni di digiuno. ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Paolo Di Canio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " segna il gol vittoria e corre sotto la curva sud con l\u0027indice alzato, ripetendo lo storico gesto di sfida di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Chinaglia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". È un momento di pura estasi che riaccende la fiera appartenenza dei tifosi. La ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Giuseppe Materazzi",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " chiude al decimo posto, iniziando una costante risalita verso palcoscenici prestigiosi che culminerà con l\u0027avvento della nuova proprietà.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "chapter",
+                      "period":  "1992-2003",
+                      "title":  "L\u0027Era Cragnotti e il Trionfo del Centenario (1992-2003)",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Sotto la presidenza di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Sergio Cragnotti",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " diventa una potenza finanziaria e sportiva internazionale, rompendo i vecchi schemi e collezionando trofei a ripetizione in Italia e in Europa.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1992",
+                      "label":  "1992-2003",
+                      "title":  "La Svolta Globale e Beppe Signori",
+                      "className":  "europe",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Sergio Cragnotti",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " assume la guida del club trasformandolo in una corazzata internazionale. I primi grandi acquisti sono l\u0027inglese ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Paul Gascoigne",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", genio e sregolatezza, e ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Beppe Signori",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", che diventerà il capocannoniere per eccellenza dell\u0027era moderna. Sotto la guida di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Dino Zoff",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", la squadra torna immediatamente a respirare l\u0027aria delle competizioni europee, qualificandosi in Coppa UEFA dopo sedici anni. È l\u0027inizio di una metamorfosi globale che porterà la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " a competere stabilmente per i titoli più prestigiosi del panorama mondiale.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1994",
+                      "label":  "1992-2003",
+                      "title":  "Il Boemo e il Debutto di Alessandro Nesta",
+                      "className":  "europe",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "L\u0027arrivo di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Zdenek Zeman",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " porta un calcio offensivo che diverte l\u0027Italia intera. È l\u0027anno del debutto di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Alessandro Nesta",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", difensore elegante e bandiera del futuro. La ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " infligge punteggi tennistici agli avversari, chiudendo al secondo posto e consacrando ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Signori",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " re dei bomber. La squadra esprime un gioco spettacolare che attira l\u0027attenzione internazionale, ponendo le basi tecniche per i trionfi imminenti. La crescita del vivaio, rappresentata da Nesta, diventa il cuore pulsante di un progetto ambizioso e vincente.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1998",
+                      "label":  "1992-2003",
+                      "title":  "Il Ritorno ai Trofei: Coppa Italia e Supercoppa",
+                      "className":  "europe",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "L\u0027era di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Sven-Goran Eriksson",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " e ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Roberto Mancini",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " inizia con la conquista della seconda ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Coppa Italia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", vinta ribaltando il Milan in finale. Pochi mesi dopo, la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " espugna Torino battendo la Juventus e alza la sua prima ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Supercoppa Italiana",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". È l\u0027inizio di una marcia trionfale che vede la squadra raggiungere anche la finale di Coppa UEFA a Parigi. La società dimostra di aver completato la transizione verso l\u0027eccellenza, diventando una realtà vincente capace di imporsi contro qualunque avversario nazionale.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "1999",
+                      "label":  "1992-2003",
+                      "title":  "Sul Tetto d\u0027Europa: Coppa delle Coppe e Supercoppa",
+                      "className":  "europe",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Il 19 maggio, a Birmingham, la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " vince la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Coppa delle Coppe",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " battendo il Maiorca con i gol di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Vieri",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " e ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Nedved",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". È il primo trofeo continentale ufficiale. In agosto, i biancocelesti superano il Manchester United a Montecarlo, conquistando la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Supercoppa Europea",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " con una rete di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Salas",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". La ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " è ufficialmente la squadra più forte del mondo, un sodalizio stellare che vanta campioni del calibro di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Mihajlovic",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Nesta",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " e ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Stankovic",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", pronti a dare l\u0027assalto definitivo al campionato italiano.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "2000",
+                      "label":  "1992-2003",
+                      "title":  "Lo Scudetto del Centenario: Giustizia Poetica",
+                      "className":  "europe",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Nel centenario della fondazione, la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " compie l\u0027impresa perfetta. Il 14 maggio, mentre un diluvio quasi biblico ferma la Juventus a Perugia, i biancocelesti battono la Reggina e si laureano Campioni d\u0027Italia per la seconda volta. Quella pioggia incessante appare come una forma di \"giustizia poetica\", compensando decenni di sofferenze e il titolo sfumato nel 1999. Pochi giorni dopo arriva anche la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Coppa Italia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", sancendo uno storico \"Double\" che consacra la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " come dominatrice assoluta del calcio nazionale.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "2003",
+                      "label":  "1992-2003",
+                      "title":  "La Resistenza della \"Banda Mancini\"",
+                      "className":  "europe",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Nonostante il crack finanziario della Cirio, la squadra guidata da ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Roberto Mancini",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " si compatta eroicamente. Senza percepire stipendi, i giocatori offrono il calcio più bello d\u0027Italia, raggiungendo le semifinali di Coppa UEFA e centrando il quarto posto Champions. La conquista della ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Coppa Italia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " nel 2004 contro la Juventus sarà l\u0027ultimo atto di gloria della gestione ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Cragnotti",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". È una dimostrazione di professionalità e attaccamento ai colori che chiude un\u0027era di sfarzo e successi senza precedenti, preparando il campo alla stabilità ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "lotitiana",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  ".",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "chapter",
+                      "period":  "2004-2026",
+                      "title":  "Il Nuovo Millennio: L’Era Lotito e la Gloria Costante (2004-2026)",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "L\u0027insediamento di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Claudio Lotito",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " segna il passaggio alla gestione del bilancio. Senza rinunciare ai trofei, la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " diventa un modello di sostenibilità, consolidandosi stabilmente nell\u0027élite del calcio italiano.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "2004",
+                      "label":  "2004-2026",
+                      "title":  "L\u0027Arrivo di Lotito e la Salvezza",
+                      "className":  "rescue",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "In un clima di incertezza totale, ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Claudio Lotito",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " acquisisce il club salvandolo dal fallimento imminente. L\u0027annata si apre con la vittoria della quarta ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Coppa Italia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " contro la Juventus, ma il nuovo presidente deve affrontare subito debiti fiscali colossali. Attraverso una gestione rigorosa e il celebre accordo con l\u0027Agenzia delle Entrate, Lotito garantisce alla società la sopravvivenza necessaria. Inizia un nuovo percorso dove la razionalità finanziaria diventa il presupposto indispensabile per mantenere la competitività sportiva ai massimi livelli.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "2009",
+                      "label":  "2004-2026",
+                      "title":  "La Quinta Coppa Italia",
+                      "className":  "rescue",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Sotto la guida di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Delio Rossi",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " conquista la sua quinta ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Coppa Italia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " superando la Sampdoria ai calci di rigore all\u0027Olimpico. È il primo trofeo della gestione ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lotito",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", conquistato grazie alle parate di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Muslera",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " e al penalty decisivo di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Ousmane Dabo",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". Questo successo qualifica la squadra per l\u0027Europa, confermando la capacità del club di eccellere nelle competizioni a eliminazione diretta e premiando la politica di crescita graduale basata sull\u0027innesto di talenti emergenti e solidità tattica.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "2010",
+                      "label":  "2004-2026",
+                      "title":  "La Supercoppa di Pechino e Olimpia",
+                      "className":  "rescue",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "In agosto, a Pechino, la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " batte l\u0027Inter di Mourinho e conquista la sua terza ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Supercoppa Italiana",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". È l\u0027anno in cui debutta ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Olimpia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", l\u0027aquila reale che vola sull\u0027Olimpico, diventando il simbolo vivente della Lazialità. Dopo un inizio difficile, l\u0027arrivo di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Edy Reja",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " in panchina garantisce alla squadra la serenità necessaria per scalare la classifica. La società continua a collezionare titoli, dimostrando che la \"gestione del bilancio\" non preclude affatto la gloria sportiva e il prestigio internazionale.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "2013",
+                      "label":  "2004-2026",
+                      "title":  "L’Eternità del 26 Maggio",
+                      "className":  "rescue",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "È la data che divide per sempre la storia del calcio romano. Nella finale di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Coppa Italia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " contro la Roma, la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " trionfa grazie a un gol di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Senad Lulic",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " al 71’. È il derby definitivo, una vittoria che assegna un trofeo e stabilisce una supremazia cittadina eterna. Sotto la guida di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Vladimir Petkovic",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", i biancocelesti scrivono la pagina più gloriosa dell\u0027era moderna, festeggiando di fronte ai rivali di sempre un successo che resterà scolpito per secoli nella memoria del club.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "2019",
+                      "label":  "2004-2026",
+                      "title":  "La Settima Coppa Italia",
+                      "className":  "present",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Sotto la guida tecnica di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Simone Inzaghi",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " continua a mietere successi, consolidando una rosa competitiva con campioni come ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Milinkovic-Savic",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Immobile",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " e ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Luis Alberto",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". Il 15 maggio, i biancocelesti battono l\u0027Atalanta all\u0027Olimpico sollevando la settima ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Coppa Italia",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ". Pochi mesi dopo, a Riad, arriva anche la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Supercoppa Italiana",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " contro la Juventus. È la conferma di una società capace di vincere con regolarità, onorando una tradizione di successi che pone il club ai vertici del calcio nazionale.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "2025",
+                      "label":  "2004-2026",
+                      "title":  "L’Era Baroni e il Quinto Posto",
+                      "className":  "present",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "In una stagione caratterizzata da una solida gestione tecnica sotto la guida di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Marco Baroni",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  ", la ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " offre prestazioni convincenti che la portano a chiudere il campionato al 5° posto. La squadra dimostra maturità e compattezza, lottando stabilmente per le posizioni europee. Il progetto di crescita continua a poggiare su una struttura societaria sana, capace di rinnovarsi tecnicamente senza compromettere la stabilità finanziaria, mantenendo viva la competitività del club nel panorama calcistico moderno, sempre più dominato da potenze economiche globali.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "event",
+                      "year":  "2026",
+                      "label":  "2004-2026",
+                      "title":  "Il Consolidamento nell\u0027Elite",
+                      "className":  "present",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "La ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lazio",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " conclude la stagione 2025/26 al 9° posto. Da un\u0027analisi d\u0027élite, questo piazzamento rappresenta un consolidamento virtuoso in un\u0027epoca di fluttuazioni estreme. Il club preserva la propria integrità sportiva e finanziaria, dimostrando che la sostenibilità di ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "Lotito",
+                                           "strong":  true
+                                       },
+                                       {
+                                           "text":  " è l\u0027unico argine contro il declino. A 126 anni dalla sua fondazione, ",
+                                           "strong":  false
+                                       },
+                                       {
+                                           "text":  "l\u0027Aquila continua a volare fiera: la forza della Lazialità è intatta, pronta a solcare i cieli del prossimo secolo con la dignità di chi è nato per primo nella Capitale.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  },
+                  {
+                      "type":  "closing",
+                      "period":  "Oggi",
+                      "title":  "Verso il futuro",
+                      "bodyRuns":  [
+                                       {
+                                           "text":  "Oltre un secolo di battaglie ha forgiato una storia unica, fatta di uomini veri e risalite entusiasmanti. Con 126 anni di epopea alle spalle, l’Aquila biancoceleste vola verso il futuro, portando con sé l’energia inesauribile di un ideale che non conosce tramonto.",
+                                           "strong":  false
+                                       }
+                                   ]
+                  }
+              ]
+}

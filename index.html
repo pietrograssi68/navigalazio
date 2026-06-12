@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Navigalazio — prototipo storia biancoceleste</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=timeline-anchor-34" />
+</head>
+<body>
+  <div class="grain"></div>
+  <nav class="topbar">
+    <a href="#hero" class="brand"><span>Λ</span> Navigalazio</a>
+    <div class="navlinks">
+      <a href="#overview">Andamento</a>
+      <a href="#timeline">Timeline</a>
+      <a href="#trofei">Trofei</a>
+      <a href="#players">Personaggi</a>
+      <a href="#lotito">2004-oggi</a>
+    </div>
+  </nav>
+
+  <main>
+    <section id="hero" class="hero panel">
+      <div class="orb one"></div><div class="orb two"></div>
+      <div class="hero-grid">
+        <div class="reveal">
+          <p class="kicker">Museo navigabile della storia laziale</p>
+          <h1>Navigalazio: attraversa la storia biancoceleste.</h1>
+          <p class="lead">Navigalazio è un museo navigabile della storia biancoceleste: dalle origini sul Tevere agli scudetti, dalle notti europee alle ferite, dai protagonisti del campo ai conflitti del presente. Ogni epoca è una rotta, ogni personaggio una porta d’ingresso, ogni evento una memoria da esplorare.</p>
+          <div class="actions"><a class="button primary" href="#overview">Guarda l'andamento</a><a class="button ghost" href="#timeline">Timeline</a></div>
+        </div>
+        <div class="hero-visual reveal">
+          <div class="aura"></div>
+          <div class="eagle eagle-mark" role="img" aria-label="Aquila Lazio animata">
+            <img class="eagle-layer eagle-shadow" src="assets/aquila-lazio.png" alt="">
+            <img class="eagle-layer eagle-left" src="assets/aquila-lazio.png" alt="">
+            <img class="eagle-layer eagle-right" src="assets/aquila-lazio.png" alt="">
+            <img class="eagle-layer eagle-body" src="assets/aquila-lazio.png" alt="">
+          </div>
+          <a class="floating a" href="#players" aria-label="Vai alla sezione Protagonisti"><strong>Protagonisti</strong>Personaggi</a>
+          <div class="floating b"><strong>2000</strong>Scudetto</div>
+          <div class="floating c"><strong>2004</strong>Salvataggio</div>
+		  <div class="floating e"><strong>2004</strong>Spesso Ritornato</div>
+        </div>
+      </div>
+    </section>
+
+    <section id="overview" class="overview-section panel">
+      <div class="section-head reveal">
+        <p class="kicker">Visione d'insieme</p>
+        <h2>Prima la mappa, poi il viaggio.</h2>
+        <p>Ogni epoca ha una quota emotiva: ascesa, caduta, rinascita, gloria. La curva non misura solo i risultati: mostra come la Lazio ha attraversato il tempo.</p>
+      </div>
+      <div class="overview-card reveal">
+        <div class="legend"><span><i class="peak"></i> Alta classifica</span><span><i class="stable"></i> Media classifica</span><span><i class="low"></i> Bassa classifica</span><span><i class="note"></i> Note ed eventi</span></div>
+        <div class="curve-wrap">
+          <svg id="overviewChart" class="history-curve" viewBox="0 0 1200 440" role="img" aria-label="Andamento storico Lazio"></svg>
+        </div>
+        <div class="period-cards">
+          <button class="period-card active" id="card-1900" data-target="1900"><span>1900–1926</span><strong>Origini</strong><em>55/100</em></button>
+          <button class="period-card" id="card-1927" data-target="1927"><span>1927–1973</span><strong>Identità</strong><em>66/100</em></button>
+          <button class="period-card peak" id="card-1974" data-target="1974"><span>1973–1974</span><strong>Primo Scudetto</strong><em>92/100</em></button>
+          <button class="period-card low" id="card-1987" data-target="1987"><span>1975–1988</span><strong>Cadute e -9</strong><em>18/100</em></button>
+          <button class="period-card peak" id="card-2000" data-target="1999"><span>1992–2004</span><strong>Apice Cragnotti</strong><em>96/100</em></button>
+          <button class="period-card low" id="card-2004" data-target="2004"><span>2004</span><strong>Rischio fallimento</strong><em>42/100</em></button>
+          <button class="period-card" id="card-oggi" data-target="oggi"><span>2004–oggi</span><strong>Ricostruzione</strong><em>60/100</em></button>
+        </div>
+      </div>
+    </section>
+
+    <section id="timeline" class="timeline-section panel">
+      <div class="section-head reveal" id="timelineHead">
+        <p class="kicker">Timeline narrativa</p>
+        <h2 id="timelineTitle">La storia, tappa dopo tappa.</h2>
+        <p>Caricamento della timeline...</p>
+      </div>
+
+      <div class="timeline" id="timelineList"></div>
+    </section>
+
+    <section id="trofei" class="trophy-section panel">
+      <div class="section-head reveal"><p class="kicker">Sala trofei</p><h2>Momenti da attraversare, non solo da leggere.</h2></div>
+      <div class="trophy-grid">
+        <div class="trophy-card reveal"><div class="cup"></div><span>Scudetto 1974</span></div>
+        <div class="trophy-card reveal winners-cup-card">
+          <div class="cup-winners-cup">
+            <img src="assets/coppa-delle-coppe.png" alt="Coppa delle Coppe">
+            <i class="shine"></i>
+            <i class="spark one"></i>
+            <i class="spark two"></i>
+          </div>
+          <span>Coppa delle Coppe 1999</span>
+        </div>
+        <div class="trophy-card reveal"><div class="cup"></div><span>Scudetto 2000</span></div>
+        <div class="trophy-card reveal"><div class="cup"></div><span>Coppa Italia 2013</span></div>
+      </div>
+    </section>
+
+    <section id="players" class="players-section panel"><div class="section-head reveal"><p class="kicker">Protagonisti</p><h2>La storia passa dai volti.</h2><p>Ogni epoca ha i suoi protagonisti. Apri una scheda e segui il filo che lega persone, partite, trofei e ferite.</p></div><div id="playersGrid" class="players-grid"></div></section>
+
+    <section id="lotito" class="lotito-section panel"><div class="focus-shell reveal"><div><p class="kicker">Focus documentale</p><h2>2004-oggi: salvataggio, ricostruzione, risultati e conflitto.</h2><p class="lead small">Una sezione per fatti, date, fonti e conseguenze.</p></div><div class="focus-cards"><div class="focus-card"><span>01</span><h3>Il rischio fallimento</h3><p>Contesto finanziario e continuità societaria.</p></div><div class="focus-card"><span>02</span><h3>La rottura iniziale</h3><p>Conflitto con parti del tifo organizzato.</p></div><div class="focus-card"><span>03</span><h3>I risultati sportivi</h3><p>Trofei, piazzamenti, qualificazioni europee.</p></div></div></div></section>
+  </main>
+
+  <div id="playerOverlay" class="player-overlay" hidden>
+    <div class="player-sheet-shell">
+      <article class="player-sheet" role="dialog" aria-modal="true" aria-labelledby="playerName">
+        <button class="player-close" aria-label="Chiudi">×</button>
+        <div class="player-bg-photo"></div>
+        <div class="ring ring-a"></div><div class="ring ring-b"></div>
+        <div class="player-content">
+          <p class="player-role kicker"></p>
+          <h2 id="playerName" class="player-name"></h2>
+          <div class="title-line"></div>
+          <p class="player-description"></p>
+          <div class="modal-actions"><button class="button primary hologram-trigger" type="button">Effetto ologramma</button><button class="button ghost data-trigger" type="button">Vedi riuso datii</button></div>
+          <div class="player-stats"></div>
+        </div>
+      </article>
+    </div>
+  </div>
+  <script src="app.js?v=chart-president-full-30"></script>
+</body>
+</html>
